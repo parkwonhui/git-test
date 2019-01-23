@@ -5,8 +5,7 @@ public class Hello {
 		int i = 1+1;
 		System.out.println("ma2ster");
 		System.out.println("master11");
-		System.out.println("master21");
-		아 실수햇다;;
+		int j = 0;
 
 	}
 

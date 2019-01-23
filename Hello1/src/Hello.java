@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("ma2ster");
 		System.out.println("master11");
 		System.out.println("master21");
+		아 실수햇다
 
 	}
 

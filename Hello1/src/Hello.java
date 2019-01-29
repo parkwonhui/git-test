@@ -4,9 +4,7 @@ public class Hello {
 		System.out.println("g12312312it");
 		int i = 1+1;
 		int k = 2;
-		System.out.println("ma2ster");
-		System.out.println("master11");
-		int j = 0;
+		System.out.println("test3 branch");		
 
 	}
 
